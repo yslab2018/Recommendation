@@ -5,5 +5,5 @@
 - CuPy 4.0.0
 
 ## 参考文献
-[1]. test
-[2]. test
+1. test
+2. test
